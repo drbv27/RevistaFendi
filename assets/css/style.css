@@ -1,15 +1,25 @@
 body{
 	background:#F5F5F5;
+	
 }
 h1{
-	background-color: aqua;
+	text-decoration: aqua;
+	margin-top: 15px;
 }
 
 #magazine{
 	width:1152px;
 	height:752px;
+	margin: 100px;
+	margin-top: 25px;
+	
+	
+	
+	 
 }
 #magazine .turn-page{
 	background-color:#e4e4e4;
 	background-size:100% 100%;
+	
+	
 }
